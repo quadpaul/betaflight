@@ -6,6 +6,8 @@ This fork differs from Baseflight and Cleanflight in that it focuses on flight p
 
 ## Features
 
+
+Edit test
 Betaflight has the following features:
 
 * Multi-color RGB LED strip support (each LED can be a different color using variable length WS2811 Addressable RGB strips - use for Orientation Indicators, Low Battery Warning, Flight Mode Status, Initialization Troubleshooting, etc)
